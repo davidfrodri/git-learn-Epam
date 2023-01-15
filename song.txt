@@ -2,11 +2,9 @@ sword and separ
 wall of shields
 bla bla bla
 bla bla lbaa
-<<<<<<< HEAD
 
 tiki tiki
 turu turum
 
 una mas
-=======
->>>>>>> parent of b436f7b (tiki tiki and turu turum added)
+
